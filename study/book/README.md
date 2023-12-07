@@ -18,10 +18,10 @@
   </tr>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/coodingpenguin"><strong>🍅 슬기</strong></a>
+      <a href="https://github.com/seulgi7"><strong>🍅 슬기</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/bsm8734"><strong>🐰 수정</strong></a>
+      <a href="https://github.com/YunSuJeong"><strong>🐰 수정</strong></a>
     </td>
   </tr>
 </table>
